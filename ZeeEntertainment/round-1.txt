@@ -1,0 +1,14 @@
+React and its advantages
+State vs Props
+Redux Flow
+Write a snippet for React component
+How do you round off corners of a element in CSS
+HTML5 new features
+Es6 new features
+Hooks
+Functions vs class Components
+useState
+LifeCycle Methods 
+Order in which Mount phase methods executes
+How do you validate input element in HTML5
+Breakpoints in css

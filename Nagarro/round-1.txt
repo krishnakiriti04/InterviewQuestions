@@ -1,0 +1,14 @@
+Its a written test with the below mentioned sections
+
+    1. 20 Aptitude questions
+	2. 2 DSA problems 
+		i. Find the repeated elements and output them as array
+		ii. Return the largest difference of indices of given character if there is a duplicate else return -1
+	3. 40 React and css MCQ questions based on Redux, Memo, snippets
+		i. Synthetic events
+		ii. e.preventDefault to prevent event propagation
+		iii. Event-pointer: none
+		iv. Which version of useState is used for setting state with calculations
+		v. useMemo usage
+		vi. Browser cache
+        vii. Caption to image in html

@@ -1,0 +1,10 @@
+This is a tech round that longed for 20-30m. These are the questions I was asked during the discussion
+
+	a. avoid event bubbling javascript
+	b. why initial value is static css
+	c. how to use react error boundaries in react
+	d. code splitting react
+	e. benefits of redux-saga
+	f. Object.seal vs object.freeze
+    g. HOC example
+
